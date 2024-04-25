@@ -1,5 +1,16 @@
 html {
   height: 100%;
   width: 100%;
+
+body {text-align:center; 
+ font-family: Adelle mono, monospace;
+      background-color: #f4f4cd;
+      
+     
+
+h1 {color: #f0c1ef; }
+h2 {color: #abdebe; }
+h {color: #abdebe; }
+     }
+  }
 }
-body {text-align:center; }
